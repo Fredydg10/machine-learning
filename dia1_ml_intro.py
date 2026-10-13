@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 # Dataset de ejemplo incluido en sklearn
