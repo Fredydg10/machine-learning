@@ -1,4 +1,4 @@
-# Tener instaladas las librerias de scikit-learn, pandas, numpy y matplotlib 
+# Tener instaladas las librerias de scikit-learn, pandas, numpy y matplotlib.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
