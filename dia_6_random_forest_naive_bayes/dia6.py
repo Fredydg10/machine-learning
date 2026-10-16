@@ -1,3 +1,4 @@
+#Tener instaladas las librerias de pandas,sklearn,seaborn y matplotlib. 
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
