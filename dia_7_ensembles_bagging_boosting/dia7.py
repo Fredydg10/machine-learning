@@ -1,4 +1,4 @@
-# Tener instalados las librerias de pandas, numpy, matplotlib, seaborn y scikit-learn( adicional el XGBoost si se desea usar)
+# Tener instalados las librerias de pandas, numpy, matplotlib, seaborn y scikit-learn( adicional el XGBoost si se desea usar).
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
