@@ -353,6 +353,3 @@ Este repositorio es parte de un roadmap personal de aprendizaje. Sin embargo, si
 [⬆️ Volver al inicio](#-machine-learning---27-días-de-práctica-intensiva)
 
 </div>
-```
-
----
