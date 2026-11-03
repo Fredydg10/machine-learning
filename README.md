@@ -172,3 +172,202 @@ pip install gymnasium
 
 # Para optimización
 pip install optuna
+
+
+## Cómo Ejecutar
+
+### Opción 1: Local (VS Code)
+
+```bash
+# Navegar a la carpeta del día
+cd dia_01_introduccion
+
+# Ejecutar el script
+python dia01.py
+```
+
+### Opción 2: Google Colab
+
+1. Abre [Google Colab](https://colab.research.google.com/)
+2. Sube el archivo `.ipynb` del día correspondiente
+3. Ejecuta las celdas con `Shift + Enter`
+4. Para activar GPU: `Entorno de ejecución` → `Cambiar tipo de entorno` → `GPU T4`
+
+---
+
+## Estructura del Repositorio
+
+```
+machine-learning-practicas/
+│
+├── README.md                           # Este archivo
+├── dia_01_introduccion/
+│   └── dia01.py
+── dia_02_regresion_lineal/
+│   └── dia02.py
+── dia_03_regresion_logistica/
+│   └── dia03.py
+├── dia_04_arboles_decision/
+│   └── dia04.py
+├── dia_05_random_forest/
+│   └── dia05.py
+├── dia_06_svm/
+│   └── dia06.py
+├── dia_07_knn/
+│   └── dia07.py
+├── dia_08_kmeans/
+│   └── dia08.py
+├── dia_09_pca/
+│   └── dia09.py
+├── dia_10_tsne/
+│   └── dia10.py
+├── dia_11_perceptron/
+│   ── dia11.py
+├── dia_12_fnn/
+│   └── dia12.py
+├── dia_13_autoencoders/
+│   └── dia13.py
+├── dia_14_hyperparameter_tuning/
+│   └── dia14.py
+├── dia_15_perceptron_fnn/
+│   └── dia15.py
+├── dia_16_entrenamiento_profundo/
+│   └── dia16.py
+├── dia_17_cnns/
+│   └── dia17.py
+├── dia_18_transfer_learning/
+│   └── dia18.py
+├── dia_19_rnn_lstm_gru/
+│   └── dia19.py
+├── dia_20_gans/
+│   └── dia20.py
+├── dia_21_transformers/
+│   └── dia21.py
+├── dia_22_nlp_basico/
+│   └── dia22.py
+├── dia_23_nlp_aplicado/
+│   └── dia23.py
+├── dia_24_clasificacion_imagenes/
+│   └── dia24.ipynb
+├── dia_25_deteccion_objetos_yolo/
+│   └── dia25.ipynb
+├── dia_26_reinforcement_learning/
+│   └── dia26.ipynb
+└── dia_27_policy_gradient_ssl/
+    └── dia27.ipynb
+```
+
+---
+
+## Lo que Aprenderás
+
+### Fundamentos
+- ✅ Programación en Python para Data Science
+- ✅ Manipulación de datos con NumPy y Pandas
+- ✅ Visualización con Matplotlib y Seaborn
+
+### Machine Learning Clásico
+- ✅ Regresión (Lineal, Logística)
+- ✅ Clasificación (Árboles, Random Forest, SVM, KNN)
+- ✅ Clustering (K-Means)
+- ✅ Reducción de dimensionalidad (PCA, t-SNE)
+- ✅ Evaluación de modelos (Accuracy, Precision, Recall, F1, ROC-AUC)
+- ✅ Hyperparameter Tuning con Optuna
+
+### Deep Learning
+- ✅ Redes Neuronales (Perceptrón, FNN)
+- ✅ Autoencoders
+- ✅ CNNs para Computer Vision
+- ✅ Transfer Learning
+- ✅ RNN, LSTM, GRU para secuencias
+- ✅ GANs para generación de imágenes
+- ✅ Transformers y Self-Attention
+
+### NLP
+- ✅ Tokenización, Stemming, Lematización
+- ✅ POS Tagging y NER
+- ✅ Análisis de Sentimientos con Hugging Face
+- ✅ Topic Modeling (LDA)
+- ✅ Word Embeddings (Word2Vec, Sentence-Transformers)
+
+### Computer Vision
+- ✅ Clasificación de imágenes (Cats vs Dogs)
+- ✅ Data Augmentation
+- ✅ Detección de objetos con YOLOv8
+
+### Reinforcement Learning
+- ✅ Q-Learning
+- ✅ Deep Q-Networks (DQN)
+- ✅ Policy Gradient (REINFORCE)
+- ✅ Self-Supervised Learning
+
+---
+
+## Próximos Pasos
+
+### Día 28: Proyecto Final Integrador
+- 🎯 Dashboard de IA con Streamlit
+- 📊 Combinación de todos los conceptos aprendidos
+- 🌐 Despliegue en Streamlit Cloud
+- 📝 Publicación en Kaggle
+
+### Proyectos Sugeridos para Continuar
+1. **Sistema de Recomendación** (Netflix-style)
+2. **Chatbot con RAG** (Retrieval-Augmented Generation)
+3. **Detección de Fraude** en transacciones financieras
+4. **Análisis de Sentimientos en Tiempo Real** con Twitter API
+5. **Generación de Imágenes** con Stable Diffusion
+
+---
+
+## Contribuciones
+
+Este repositorio es parte de un roadmap personal de aprendizaje. Sin embargo, si encuentras errores o tienes sugerencias, ¡siéntete libre de abrir un issue o hacer un pull request!
+
+---
+
+## Agradecimientos
+
+- **Documentación oficial** de TensorFlow, Scikit-Learn, Hugging Face
+- **Comunidad de Kaggle** por los datasets y notebooks
+- **Google Colab** por proporcionar GPU gratuita
+- **OpenAI, Anthropic, Google** por los modelos pre-entrenados
+
+---
+
+## Estadísticas del Proyecto
+
+- **27 días** de práctica intensiva
+- **27 proyectos** completos
+- **~5,000+ líneas de código**
+- **10+ librerías** dominadas
+- **100% en español** 🇪🇸
+
+---
+
+<div align="center">
+
+**¡Gracias por recorrer este camino conmigo!** 🚀
+
+*De principiante a Machine Learning Engineer en 27 días*
+
+[⬆️ Volver al inicio](#-machine-learning---27-días-de-práctica-intensiva)
+
+</div>
+```
+
+---
+
+###  Solo agrega esto al final:
+
+1. Abre tu `README.md`
+2. Ve hasta el final del archivo
+3. Pega **todo** el bloque de arriba
+4. Guarda (`Ctrl + S`)
+5. Sube los cambios:
+   ```bash
+   git add README.md
+   git commit -m "Agregar secciones faltantes en README"
+   git push
+   ```
+
