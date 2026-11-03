@@ -29,7 +29,6 @@ Cada día incluye:
 - [Fase 7: Reinforcement Learning (Días 26-27)](#fase-7-reinforcement-learning-días-26-27)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación y Configuración](#instalación-y-configuración)
-- [Cómo Ejecutar](#cómo-ejecutar)
 - [Estructura del Repositorio](#estructura-del-repositorio)
 - [Lo que Aprenderás](#lo-que-aprenderás)
 - [Próximos Pasos](#próximos-pasos)
