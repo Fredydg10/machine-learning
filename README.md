@@ -356,17 +356,3 @@ Este repositorio es parte de un roadmap personal de aprendizaje. Sin embargo, si
 ```
 
 ---
-
-###  Solo agrega esto al final:
-
-1. Abre tu `README.md`
-2. Ve hasta el final del archivo
-3. Pega **todo** el bloque de arriba
-4. Guarda (`Ctrl + S`)
-5. Sube los cambios:
-   ```bash
-   git add README.md
-   git commit -m "Agregar secciones faltantes en README"
-   git push
-   ```
-
